@@ -1,6 +1,6 @@
-// Add imports above this line
-import { galleryItems } from './gallery-items';
+import { galleryItems } from './gallery-items.js';
 // Change code below this line
+// Descris în documentație
 import SimpleLightbox from 'simplelightbox';
 // Import stil
 import 'simplelightbox/dist/simple-lightbox.min.css';
